@@ -8,11 +8,11 @@ android {
     lintOptions {
         checkReleaseBuilds false
     }
-    compileSdkVersion 28
+    compileSdkVersion 32
     defaultConfig {
         applicationId "nsi.assd.exam.nsiassdquiz2020"
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdkVersion 32
         versionCode 14
         versionName "2.3"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
